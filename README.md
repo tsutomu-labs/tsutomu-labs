@@ -1,16 +1,14 @@
-## Hi there 👋
+# 丸山 勉 / Tsutomu Maruyama
 
-<!--
-**tsutomu-labs/tsutomu-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+POS・流通・店舗運営システムを36年間経験。
 
-Here are some ideas to get you started:
+現在は、
+AIを活用した飲食店利益改善を研究中。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 関心領域
+- 飲食店DX
+- POSデータ分析
+- 利益改善
+- Python
+- Power BI
+- AI活用
