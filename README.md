@@ -11,3 +11,6 @@ AIを活用した飲食店利益改善を研究中。
 - 利益改善
 - Python
 - AI活用
+- Google Colab
+- matplotlib
+- GitHub
